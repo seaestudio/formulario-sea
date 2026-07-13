@@ -233,7 +233,7 @@ const FORM_CONFIG = {
       id: "q8",
       multiple: false,
       noTruth: true,
-      title: `<strong>Después de observar tu ESPEJO DE VERDAD y sabiendo que solo tú sabes lo que necesitas, <em>8. ¿cuál de estos cuatro anclajes o medicina sientes que quieres priorizar en tu día?</em></strong><br><em>(Selecciona solo una opción)</em>`,
+      title: `Después de observar tu ESPEJO DE VERDAD y sabiendo que solo tú sabes lo que necesitas, <strong><br>8. ¿cuál de estos cuatro anclajes o medicina sientes que quieres priorizar en tu día?</br></strong><br><em>(Selecciona solo una opción)</em>`,
       button: "Mi Espejo 🪞",
       options: [
         "CALMA. Para vaciar: Necesito bajar el ritmo de mi cabeza, simplificar mis días y concederme momentos de quietud para volver a escucharme.",
