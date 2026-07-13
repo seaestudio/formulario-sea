@@ -3,7 +3,7 @@ const FORM_CONFIG = {
   whatsappNumber: "34670863944",
   whatsappMessage: "Hola Abigeil, he completado mi Espejo de Verdad SÉA. Me encantaría que charláramos un ratito para conocernos y agendar nuestra sesión de sintonía.",
   waitlistMessage: "Hola Abigeil, he completado mi Espejo de Verdad y me encantaría que me guardases plaza prioritaria sin compromiso para la próxima ronda de SÉA.",
-  instagramUrl: "#",
+  instagramUrl: "https://www.instagram.com/sea__estudio/",
 
   buttons: {
     defaultNext: "Siguiente",
