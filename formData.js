@@ -226,6 +226,8 @@ const FORM_CONFIG = {
       ]
     },
 
+    { type: "summary" },
+    
     {
       type: "question",
       id: "q8",
@@ -241,7 +243,6 @@ const FORM_CONFIG = {
       ]
     },
 
-    { type: "summary" },
     { type: "result" },
     { type: "pause" },
 
